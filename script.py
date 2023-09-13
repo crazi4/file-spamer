@@ -1,3 +1,8 @@
+#Сделано пользователем crazi4
+#Источник:
+#https://github.com/crazi4/file-spamer
+#Если есть вопросы, пишите в телеграм @crazi444
+
 from random import randint
 import os
 import getpass
